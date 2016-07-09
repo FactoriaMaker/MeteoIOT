@@ -17,17 +17,6 @@
 
 //----------------- VARIABLES GLOBALES --------------------------
 
-// Acceso a router NEXX
-// const char *ssid = "a16446";
-// const char *password = "12345678";
-
-// Acceso a router suegros
-// const char *ssid = "MOVISTAR_FA98";
-// const char *password = "9oRkrkE3l34me4p4krkk";
-
-// Acceso a router CASA
-// const char *ssid = "Orange-3408";
-// const char *password = "265996AC";
 
 unsigned int localPort = 2390;      // local port to listen for UDP packets
 const char* ntpServerName = "time.nist.gov";
